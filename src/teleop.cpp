@@ -27,11 +27,10 @@
 * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *******************************************************************************/
-/* Author: Elchay Rauper*/
+/* Author: Elhay Rauper*/
 
 #include <teleop/teleop.h>
 #include <teleop/joy_profile.h>
-
 
 Teleop::Teleop()
 {
